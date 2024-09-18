@@ -1,0 +1,6 @@
+ # marthasofianolascoaguilar
+
+#muestra suma de variables 
+print("la suma total de 5 + 2")
+print(5 + 2)
+
